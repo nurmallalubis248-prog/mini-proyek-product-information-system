@@ -74,7 +74,7 @@ Seluruh tampilan antarmuka (UI) dikelola pada file PHP utama seperti `index.php`
 
 ### Akses Live Demo (HTTPS Online)
 1. Akses tautan berikut di browser HP/PC:
-   `https://pis-nurmala-lubis.infinityfreeapp.com/`
+   https://pis-nurmala-lubis.infinityfreeapp.com/
 2. **Catatan jika muncul peringatan "Google Safe Browsing / Deceptive Site":**
    * Klik **Sembunyikan Detail** (atau *Details*) di bagian bawah layar merah.
    * Klik tautan **buka situs yang tidak aman ini** (atau *proceed to this unsafe site*).
