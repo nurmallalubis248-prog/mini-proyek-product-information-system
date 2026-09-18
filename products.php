@@ -52,7 +52,7 @@ $defaultProducts = [
         "deskripsi" => "Dudukan laptop berbahan aluminium kokoh dengan sudut kemiringan yang dapat disesuaikan dan desain lipat yang praktis."
     ],
     [
-    'id'        => 'PRD-007',
+    'id'        => '007',
     'nama'      => 'Powerbank 20000mAh Fast Charging',
     'kategori'  => 'Accessories',
     'harga'     => 280000,
