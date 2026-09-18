@@ -8,7 +8,7 @@ Product Information System merupakan sistem informasi berbasis web sederhana yan
 
 ## Fitur
 
-* **Autentikasi**: Login dan Logout sistem
+* **Autentikasi**`: Login dan Logout sistem
 * **Dashboard**: Ringkasan informasi & total nilai aset gudang
 * **Katalog Produk**: Melihat daftar inventori lengkap beserta indikator status stok
 * **Input Produk**: Menambahkan data produk baru ke dalam sistem
