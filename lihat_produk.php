@@ -298,7 +298,7 @@ $username =$_SESSION['username'] ?? 'nurmala';
         const productRows = document.querySelectorAll(".product-row");
 
         if (searchInput) {
-            searchInput.addEventListener("keyup", function () {
+            searchInput.addEventListener("keyup", function () {git add 
                 const keyword = this.value.toLowerCase().trim();
                 productRows.forEach(function (row) {
                     const searchData = row.getAttribute("data-search");
